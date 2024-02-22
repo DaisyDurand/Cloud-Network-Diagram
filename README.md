@@ -1,7 +1,7 @@
 # Network-Diagram
 
 <h2>Description</h2>
-The project consists of a diagram that depicts the setup of private cloud network secured by a firewall. It also includes an Ansible jumbox and the Docker containers running on 2 VMs. Load balancer
+<p>The project consists of a diagram that depicts the setup of private cloud network secured by a firewall. It also includes an Ansible jumbox and the Docker containers running on 2 VMs. Load balancer</p>
 <br/>
 
 <h2>Environments Used </h2>
