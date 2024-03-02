@@ -1,7 +1,8 @@
 <h1>Network-Diagram</h1>
 
 <h2>Description</h2>
-<p>The project consists of a diagram that depicts the setup of private cloud network secured by a firewall. It also includes an Ansible jumbox and the Docker containers running on 2 VMs. Load balancer</p>
+<p>
+In this project, containerized applications are deployed securely on Microsoft Azure's cloud infrastructure. A virtual network is established with specified IP address ranges and subnets to manage traffic flow effectively. To bolster security, network security groups are configured to allow only authorized traffic types while blocking unauthorized access attempts. Load balancers are employed to ensure high availability by evenly distributing incoming traffic across multiple virtual machines. Within these VMs, Docker containers are deployed, enabling efficient containerization of applications for scalability and resource optimization. Additionally, Ansible automation tools are implemented to streamline deployment processes, ensuring consistency and reliability across environments. Through these measures, the project aims to create a robust and secure deployment environment for containerized applications on Microsoft Azure.</p>
 <br>
 <h2>Environments Used </h2>
 - draw.io
