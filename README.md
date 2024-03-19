@@ -1,4 +1,4 @@
-<h1>Network-Diagram</h1>
+<h1>Cloud-Network-Diagram</h1>
 
 <h2>Description</h2>
 <p>
